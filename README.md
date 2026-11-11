@@ -46,7 +46,7 @@ Edit
 ├── .gitignore           # Ignored files & virtual env
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone [https://github.com/Abhinayana16/Banking-Chatbot.git](https://github.com/siddarthavanaparthi/Banking-Chatbot)
+git clone https://github.com/siddarthavanaparthi/Banking-Chatbot
 cd Banking-Chatbot
 2️⃣ Create & activate virtual environment
 python -m venv venv
